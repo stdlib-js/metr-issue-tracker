@@ -25,7 +25,7 @@ limitations under the License.
 ## Resources
 
 -   [METR][metr]
--   [Experiment overview][metr-uplift-experiment]
+-   [Experiment overview][metr-experiment-overview]
 
 * * *
 
